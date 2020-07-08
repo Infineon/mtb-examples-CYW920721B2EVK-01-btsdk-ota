@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # OTA Examples
 
 This application group demonstrates Over-the-Air firmware updates. Applications included are:
